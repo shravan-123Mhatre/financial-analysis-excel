@@ -1,4 +1,4 @@
-#  Banking & Finance Excel Dashboard
+#  Banking & Finance Excel Project 
 
 A comprehensive Excel-based dashboard designed to analyze and visualize key financial metrics for the Banking and Finance sector. This project includes automated reports, data-driven insights, and clean visualizations to support effective decision-making.
 
